@@ -14,8 +14,8 @@ Project that takes currency exchange rates from website of NBP in format ".json"
 Python 3.9
 
 ## Libraries
-- [tkinter] (https://docs.python.org/3/library/tkinter.html)
-- [urllib.request] (https://docs.python.org/3/library/urllib.request.html)
-- [json] (https://docs.python.org/3/library/json.html)
-- [os] (https://docs.python.org/3/library/os.html)
-- [requests] (https://pypi.org/project/requests/)
+- [tkinter](https://docs.python.org/3/library/tkinter.html)
+- [urllib.request](https://docs.python.org/3/library/urllib.request.html)
+- [json](https://docs.python.org/3/library/json.html)
+- [os](https://docs.python.org/3/library/os.html)
+- [requests](https://pypi.org/project/requests/)
