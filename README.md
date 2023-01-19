@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository consists of two tasks incuding projects from courses "Programowanie" (2nd semester) and "Algorytmy" (3rd semester) (Wrocław University of Science and Technology.
+This repository consists of two tasks incuding projects from courses "Programowanie" (2nd semester) and "Algorytmy" (3rd semester) at Wrocław University of Science and Technology.
 
 ### Algorithms tasks
 Creating classes implementing binary trees and heaps that work with mathematics problems, like derivatives, and sort variables.
