@@ -14,20 +14,7 @@ Project that takes currency exchange rates from website of NBP in format ".json"
 Project that draws functions plots. Creates GUI interface to write wanted function formula, labels and plot titles, choose whether legend should be shown or not.
 
 ### Vector module
-Creating a class called Vector that makes simple calculations on vector(s) of given dimension. It has methods below:
-- random_values
-- from_list
-- len_vec
-- elem_sum
-- scalar_prod
-And operators:
-- add
-- sub
-- mul and rmul
-- repr
-- len
-- getitem
-- contains
+Creating a class called Vector that makes simple calculations on vector(s) of given dimension. It has methods: random_values, from_list, len_vec, elem_sum, scalar_prod. And operators: add, sub, mul and rmul, repr, len, getitem, contains.
 
 ## Language
 Python 3.9
